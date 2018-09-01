@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+<img src="headshot.jpg" height="300px" width="300px" />
 
-You can use the [editor on GitHub](https://github.com/shuaixu1997/cs373_blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## WEEK-ONE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What did you do this past week?
 
-### Markdown
+It's the first week so a lot of new things going on. I think I finalized my course selections and began getting used to the new schedule I have in this semester. Since generally students are getting back in town this week, I got some chance to hang out with my college friends and met some new people. It's pretty awesome. I'm so ready for this new start.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What's in your way?
 
-```markdown
-Syntax highlighted code block
+As I'm becoming a rising senior, the job hunting is definitely the task staying top on my priority list. Career fairs are coming in a few weeks so I need to get ready for the interview stuff, including updating my resume, looking for opportunities and brush up my coding skills etc. Meanwhile I just got started on my part-time job, which also requires me to put in more effort at the beginning. So I guess I will figure out how to balance my life as we go.
 
-# Header 1
-## Header 2
-### Header 3
+### What will you do next week?
 
-- Bulleted
-- List
+Just the transition from the relaxing summer mode to a busy working mode. I like this labor day long weekend so that I can adjust a bit and make up some plans. Going over all my syllabi for this semester, I realize that this CS373 is probably the most time consuming class for me. I'm not too worried about the workload since I already have some experience doing web dev things, yet I think I still need to reach out to find and get to know my teammates a bit.
 
-1. Numbered
-2. List
+### What are your expectations of the class?
 
-**Bold** and _Italic_ and `Code` text
+The most exciting part should be the collaboration on the group project. I enjoy doing an independent project very much as we will have the freedom to design anything we want from scratch, which gives out a great sense of accomplishment. Also I decided to use Python for most of my interviews, so the lecture will certainly be helpful in this perspective. Lastly, I enjoy professor Downing's lectures very much since the last semester when I was taking the OOP, so this class should be at least as enjoyable as I expected.   
 
-[Link](url) and ![Image](src)
-```
+### What's your pick-of-the-week or tip-of-the-week?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shuaixu1997/cs373_blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I didn't know that Gitlab has this CI thing built-in already. This is so cool. I can't wait to try it out pretty soon, as the previous experience using Travis.ci is not as smooth as I expected it to be. This summer I got in touch with Jenkins, which is quite flexible and works fine. So I guess this will be a good place for me to compare these tools and summarize what is my preferrence and how these tools differ in terms of automation in a general way.   
