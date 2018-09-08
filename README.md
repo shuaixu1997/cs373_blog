@@ -1,5 +1,29 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
+## WEEK-TWO
+
+### What did you do this past week?
+
+Thanks to the labor day vacation, this week feels much shorter. I spent most of my time preparing for my first interview in this semester, and I have not heard anything back yet. I also worked on the Collatz project and finished most of them. Passing the HackerRank is a little tougher than I expected, but I'm glad that I get it over in this weekend.
+
+### What's in your way?
+
+Projects and assignments are out there waiting for my work. I feel like I installed so many tools this week, including the latex setup for algorithm, the R packages for stats, the Gitlab configuration for this class and Postgres/pgadmin for data management. Getting exposed to new things will take some time, and I hope it will be smooth when I actually start using them soon.
+
+### What will you do next week?
+
+I need to finish my homework for algo & database before Wednesday and then definetely add the unit/acceptance tests with formatting stuff to close the Collatz project. Meanwhile, I will probably hand in my resume to a few companys in the engineering career fair to see if there's more opportunity. Of course the CNS one would be huge the week after and nobody wants to miss that, so the engineering one next week could be a good place to have some tastes.
+
+### What's your experience of the class?
+
+It's pretty good. Since I took the OOP last semester, most of the content this week sounds kind of familiar to me. Comparing to the lectures, I'm more excited on what would happen for the group project. How many hours should I expect to spend with my teammates? What are we building and what would it look like? As for the Collatz project experience, I find the Gitlab CI very easy to use. I didn't even have to modify the configuration file at all, and it pulls of my changes and finishes the testing in literally two minutes.   
+
+### What's your pick-of-the-week or tip-of-the-week?
+
+The Overleaf platform. I was kind of trying to avoid the LaTex work earlier in my college career, yet the requirement that I have to type my homework leaves me no choice now. So the Overleaf platform is free and we can save our projects online without worring about losing the data at all. I can also access it whichever laptop I'm using. In terms of the functunality, the dual view makes the compiling & preview much simpler. What I need to do is simply copy and paste the symbols from the raw Tex source based on the preview, so we won't be scrolling in Word to find out a no-name-symbol among tons of similar ones any more. Yay!
+
+--------------------------------------------------------------------------------------------------------------  
+
 ## WEEK-ONE
 
 ### What did you do this past week?
