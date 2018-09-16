@@ -14,7 +14,9 @@ Collatz is done; So I have algo homeworks and data management lab to worry about
 
 As I said, balance the school works and the interview preps. I still have my weekly routine going, but I might choose to opt out some lectures. Hopefully this will be alright. Sometimes I feel like I'm back to the internship hunting season paired with 439 last semester. It's more pressured this time, yet I can see myself growing and get strong enough to get through this.
 
-### What's your experience of the class?
+### What's your experience of the (in-class exercise) class?
+
+EDIT: Well. For in-class exercise, I have experienced it last semester in OOP. The collaboration part is great as we need to speak out our thought process and try to understand where the other people is getting at. Just like next week's assigned reading for pair programming advice, the in-class exercise at least motivates me to actively participate.   
 
 I like the class as always. Pretty sure the lectures are still similar to the OOP ones, just replacing C++ with Python. It's always good to know those subtle differences between languages and keep brushing up on it. 
 
