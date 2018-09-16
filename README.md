@@ -4,6 +4,31 @@
 
 ### What did you do this past week?
 
+What an exhausting week! I attended the engineering expo, did poorly in an interview and finished the first round of assignment dues. I need to get into this rhythm though, as the CNS career fair is on the way and I don't want to screw up another opportunity. Job hunting is hard.
+
+### What's in your way?
+
+Collatz is done; So I have algo homeworks and data management lab to worry about. Meanwhile I want to start early on my stats homework and history essay so that I can save some time for future interviewings. I guess I won't be having any spare time then.
+
+### What will you do next week?
+
+As I said, balance the school works and the interview preps. I still have my weekly routine going, but I might choose to opt out some lectures. Hopefully this will be alright. Sometimes I feel like I'm back to the internship hunting season paired with 439 last semester. It's more pressured this time, yet I can see myself growing and get strong enough to get through this.
+
+### What's your experience of the class?
+
+I like the class as always. Pretty sure the lectures are still similar to the OOP ones, just replacing C++ with Python. It's always good to know those subtle differences between languages and keep brushing up on it. 
+
+### What's your pick-of-the-week or tip-of-the-week?
+
+I know this was mentioned in class, yet I still want to share my experience with docker this week. For my data management class, we were asked to install prosgressql and pgadmin for our homeworks. Personally I use a Ubuntu machine so it turns out that I don't have a desktop version available. I decided to take advantage of my linux system and instead of installing packages one by one, I just pulled a docker image containing all setups. I launched the project in the background and bind a port to the pgadmin interface, and as simple as that I got a working pgadmin just functioning like a normal web page. Seriously I can see the future of docker! No more manual environmental configurations. 
+
+-------------------------------------------------------------------------------------------------------------- 
+
+
+## WEEK-TWO
+
+### What did you do this past week?
+
 Thanks to the labor day vacation, this week feels much shorter. I spent most of my time preparing for my first interview in this semester, and I have not heard anything back yet. I also worked on the Collatz project and finished most of them. Passing the HackerRank is a little tougher than I expected, but I'm glad that I get it over in this weekend.
 
 ### What's in your way?
