@@ -4,15 +4,15 @@
 
 ### What did you do this past week?
 
-Career fair! I did spend a lot time preparing for this and of course it was exhausting. Then I finished my first on-campus interview this year, and trying hard to catch up with the coursework I've missed. I also participate in our first group meeting. Looks like we are an enthusiastic team planning ahead of time while the project specs is still on the way!
+Career fair! I did spend a lot time preparing for this and of course it was exhausting. Then I finished my first on-campus interview in this semester, and tried hard to catch up with the coursework I've missed. I also participate in our first group meeting for the upcoming web app project. Looks like we are an enthusiastic team planning ahead of time while the project specs is still on the way!
 
 ### What's in your way?
 
-A series of interviews coming up. I definitely need to spend more time brushing up the data structure and algorithm materials and do some mock-ups on writing code in a white board. I have done one interview this week, and still I don't really feel comfortable writing using a pen instead of typing in a keyboard. I guess the main difference is that we lose the track of formatting and it becomes significantly harder to insert a statement between two lines that have been written. 
+A series of interviews coming up. I definitely need to spend more time brushing up the data structure/algorithm materials and do some mock-ups on writing code in a white board. I have done one interview this week, and still I don't really feel comfortable writing using a marker instead of typing in a keyboard. I guess the main difference is that we lose the track of formatting and it becomes significantly harder to insert a statement between two lines that have been written. 
 
 ### What will you do next week?
 
-I will certainly miss some classes but I really want to make up for it. So after I'm done with the first round interviews, I'll probably go over the slides and docs in detail. It is the end of September now, and I do have plenty of materials to review. This would also save me some time later when the midterm comes up, so that I won't feel screwed and have no time for schooling at all.
+I will certainly miss some classes but I really want to make up for it. So after I'm done with the first-round interviews, I'll probably go over the slides and docs in detail. It will be the end of September now, and I do have plenty of materials to review. This would also save me some time later when the midterm comes up, so that I won't feel screwed and have no time for schooling at all.
 
 ### What was your experience of Project #1 (the problem, the overkill requirements of submission, etc.)?
 
@@ -20,7 +20,7 @@ Not too much. I had OOP last semester so this entire experience is quite familia
 
 ### What's your pick-of-the-week or tip-of-the-week?
 
-Hey I don't know if this is relevant enough, but I do want to share this trick that greatly boosts my work energy recently: keep changing the physical environment. Like you don't necessary have to go to the library or sit right on your desk chair; anywhere, a sofa, under a tree or even holding some paper while randomly walking around. All of this strangely works for me. It might not feel as comfortable as my usual place, but I can always concentrate and get short tasks done for around half an hour. 
+Hey I don't know if this is relevant enough, but I do want to share this trick that greatly boosts my energy level recently: change the physical environment frequently. Like you don't necessary have to go to the library or sit right on your desk chair; anywhere, a sofa, under a tree or even holding your paper while randomly walking around. All of this strangely works for me. It might not be as comfortable as my usual study place, but I feel like I can concentrate more and get short tasks done for around half an hour. 
 
 
 -----------------------------------------------------------
