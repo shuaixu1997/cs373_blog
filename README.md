@@ -16,11 +16,11 @@ Well I should be expecting some results from the previous interviews. I really w
 
 ### What's your experience of the readings, so far? And, if you went, what did you think of the talk by Under Armour? (this question will vary, week to week)
 
-Some of the readings are really conceptual, like the UML ones. I get confused a little bit because these are not quite directly related to our lectures and projects. Of course it is really helpful in terms of my software engineering experience, but I have to admit that I am putting the lecture/project on a much higher priority over the readings so far. As for the tech talk, I'm glad that we always have this kind of opportunity to get some real world information. (And the free attendance quiz!) 
+Some of the readings are really conceptual, like the UML ones. I didn't dig into some concepts because I feel like they are not quite directly related to our lectures and projects. Of course it is really helpful in terms of my software engineering experience, but I have to admit that I am putting the lecture/project on a much higher priority over the readings so far. As for the tech talk, I'm glad that we always have this kind of opportunity to get some real world information. (And the free attendance quiz!) 
 
 ### What's your pick-of-the-week or tip-of-the-week?
 
-I will share my experience with AWS EC2. My first try was on freshman year, and the experience was horrible cos I didn't really know anything about it. Over the few years I've gained some cloud computing experience, yet never work with AWS ever since. This time I notice that the interfaces change a lot, and it still looks like over complicated for someone just started. I guess all the tools are somehow similar once we grab the concept under the hood, so my advice is to try more platforms so that we will know which feature or functionality is important and we can simply ignore those specs we don't care.
+I will share my experience with AWS EC2. My first try was on freshman year, and the experience was horrible cos I didn't really know anything about it. Over the few years I've gained some cloud computing experience, yet never work with AWS ever since. This time I notice that the interfaces change a lot, and it still looks like over complicated for someone just started. I guess all the tools are somehow similar once we grab the concept under the hood, so my advice is to try more platforms so that we will know which feature or functionality is important and what specs can we simply ignore.
 
 -----------------------------------------------------------
 
