@@ -1,5 +1,29 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
+## WEEK-SIX
+
+### What did you do this past week?
+
+Earlier this week we finished the project 2, and then I spent most of the time preparing for the onsite interview on Friday. It is a nice trip but the 4-hour flight is definitely exhausting. I also did a few online assessments and made a detailed plan for this October. I feel like I'm somehow overloaded recently so refactoring my calendar would help me put emphasis on the important stuff. 
+
+### What's in your way?
+
+I'm trying to build our back end system so that we can populate the db through REST calls. I want to keep pace with my teammates while not losing the rhythm of my energy, so starting early is always the safest option. Other than that, I can finally gather some time to catch up with the coursework. Right now I feel good hanging out in a random place without worrying about anything, but I'm pretty sure everything will eventually come to me after I get back in town.
+
+### What will you do next week?
+
+On Monday and Tuesday I will catch up with classes and finish most school work for the rest of the week. Wednesday would be the preparation for the interviews on Thursday and Friday. The weekend is reserved for our group project phase II, also I have an essay due with the first swe test on the coming Monday.
+
+### What was your experience of Project #2? (this question will vary, week to week)
+
+I like it so far. I didn't expect to put in so much time building a simple static website; I guess it's just the design work that takes so much time. My teammates are doing really well and very responsible on their parts, so I'm very glad that we are supporting each other and not procrastinating to the very last moment. Phase II needs a lot more work and I'm so ready to fight through this. 
+
+### What's your pick-of-the-week or tip-of-the-week?
+
+While being proficient in one programming language, we really need a broad range of knowledge to pass interviews. Other than the regular white boarding questions, I was also asked on some language characteristics like JavaScript closures/callbacks and database knowledge like SQL joins. Meanwhile, I got rejected on the final round mainly because I forgot how assembly-level stack works and couldn't analyze what happens when reading a file from a disk in detail. If I had spent two hours or so quickly going over the materials in 429/439, I would at least feel comfortable giving an answer. Friendly reminder: interviews are not just about data structures and algorithms.        
+
+-----------------------------------------------------------
+
 ## WEEK-FIVE
 
 ### What did you do this past week?
