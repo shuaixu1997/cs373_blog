@@ -1,5 +1,30 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
+## WEEK-SEVEN
+
+### What did you do this past week?
+
+Finished four interviews in a row. Well seriously I don't remember doing anything else, maybe some homework? I know I have a lot of catch up work to do, yet I've been so unproductive over the weekend. There is one nice thing for this weekend though, I did a really long video chat with my family, like a straight six hours. I should have done this on a regular basis. This semester has been so crazy that I couldn't believe there are so many things going on in seven weeks.      
+
+### What's in your way?
+
+Exam is coming, and I haven't gathered enough time to review the materials. I guess I will make the cheat sheet later tonight and try to browse all notes at least once tomorrow before the exam. Then I will wrap up my history essay before midnight and begin preparing for the interview on Tuesday. I think my calendar has been booked up on this intense pace until mid-November.
+
+### What will you do next week?
+
+Like I said above, exam, homework due and interviews. Later next week I may be able to spend more time working on project phase II, and my team will certainly boost up the progress right after the exam. I hope that my absence on the Tuesday team meeting won't be too bad.
+
+### What was your experience of learning the basics of Python?
+
+This is awesome! I use Python as my primary language in interviews, and I actually benefit from paying attention to the lectures. On one interview I was asked about how to deal with Big Integer, and I suddenly recall professor Downing mentioned that Python has the mechanism that when a number gets large enough, it will automatically store the address of the Big Integer to avoid overflow. I really think this impressed the interviewer and that's part of the reason why I got into the next round. Boy, attending lectures pays off! Other techniques are also very important, as I will gain more understanding of the Python language itself and thus be able to write "pythonic" code. 
+
+### What's your pick-of-the-week or tip-of-the-week?
+
+Don't forget to keep track of your background processes... I mean I had several Docker containers running on my Ubuntu box, and I usually never turn off my computer so I have no problem accessing my work there. However, for some reason I accidentally reboot my laptop at one time, and I regret doing it immediately: of course I lost some data on my containers. Well it's definitely a lesson and I shouldn't be relying on the application on the fly; the correct thing to do is to have backup plans or synchronize everything somehow.    
+
+-----------------------------------------------------------
+
+
 ## WEEK-SIX
 
 ### What did you do this past week?
