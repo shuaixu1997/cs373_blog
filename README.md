@@ -1,5 +1,6 @@
 <img src="headshot.jpg" height="300px" width="300px" />
-------------------------------------------------------------------
+
+
 ## WEEK-EIGHT
 
 ### What did you do this past week?
