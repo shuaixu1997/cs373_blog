@@ -1,5 +1,27 @@
 <img src="headshot.jpg" height="300px" width="300px" />
+## WEEK-EIGHT
 
+### What did you do this past week?
+
+This was an another busy week where I almost forgot updating this blog... so I finished a few homework dues and did a couple of interviews as usual. It's an really important week for me because just received my very first offer and that was such a relief! I'm not sure whether I will take this offer, yet there are still a few weeks for me to make an formal decision. I will have to expediate other interview process and withdrawn a certain number of those choices.  
+
+### What's in your way?
+
+Like I said, as the first offer comes, I will try to wrap up all my current interviews really soon. Meanwhile, I have my data management midterm to prepare, this swe project to work on and another on-site interview next week. I know this sounds busy but actually I don't feel pressured at all since I at least got a place to go. I feel like I don't even need to prepare my luggage at all as I just did this two weeks ago and I can easily pack the same stuff again. 
+
+### What will you do next week?
+
+I don't want to keep the entire blog talking about how exciting I am after experiencing the horrible month with dozens of interviews with rejections and finally got an offer. But yeah, I hope I can do well in the rest of interviews and have more choices in hand to compare with. Honestly schooling is my second priority right now, but I will still attend lectures and finish homeworks at my minimum effort. 
+
+### What was your experience of Test #1 (the problems, the time, HackerRank)?
+
+Test is absolutely easy. The first two problems took me a little bit more time than I expected, but then problem 3-6 are basically the same and I think I nailed it pretty fast. I like the variation in the problems as it is a bit different from what we learned from the lecture yet sharing the same concept. HackerRank is no suprise to us thanks to the on class exercise. Or maybe I just did too many online assessments so this platform is no secret to me anymore.
+
+### What's your pick-of-the-week or tip-of-the-week?
+
+I spent quite a lot of time on vSphere client last few days. This is provided by VMware and I think it's a great product! The interfaces are fairly straghtforward and you can manage those vms with very detailed configurations. The desktop version is kind of old school but it's definitely more stable than the web client. The console functionality is very useful just like a virtualbox; before we setup the networking stuff like vlans and router settings etc., console is pretty much the only way we can access the server and change settings inside. The GUI is not slow at all in my experience. Well I think this is of course out of scope in any personal projects, but it can be a useful skill to pick up before entering the industry.
+
+------------------------------------------------------------------
 ## WEEK-SEVEN
 
 ### What did you do this past week?
