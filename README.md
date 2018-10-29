@@ -1,5 +1,32 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
+## WEEK-NINE
+
+### What did you do this past week?
+
+I finished three assignments in a row and went out since Thursday for an on-site interview. My weekend was much relaxing and I did catch up with our group project on Sunday after I get back in town. This is actually my first experience renting a car during the interview visit, and I absolutely love it. It feels like home already, as I can go wherever I want and change my mind at any moment. It does depend on the city I'm visiting though.
+
+### What's in your way?
+
+Project phase three due is on Tuesday, obviously. We are close to finishing this phase, yet have not begun on the technical report. We just recently noticed the the testing part weights a lot in the grading criteria, and we definitely need to do more meaningful testing. Also the registration for next semester is opening this coming week, and I will spend some time figuring out what courses to take and how to make my schedule doable.  
+
+### What will you do next week?
+
+same as above.
+
+### What did you think of the talk by Dr. Rich and Dr. Cline? (this question will vary, week to week)
+
+The ethics in information technology is something relatively new but important to all of us. We all care about our privacy while active looking for more information at the same time; there are just too much controversy in this field. As a college student that will enter the industry soon, I absolutely feel like it is necessary for us to think through the ethical aspect of what we are doing. Our minds may change over the years, or in certain scenarios it becomes tough to follow what we are supposed to do, but having this mindset of making ethical decisions is very important. Dr. Rich and Dr. Cline did a great job listing some classic examples leading us to think and discuss such situations that we might encounter in the future, which I think is indeed helpful.
+
+### If you went, what did you think of the talk by Atlassian? (this question will vary, week to week)
+
+Atlassian has some well-known products like BitBucket and Confluence. I'm always a big fan of such tech talks; it's interesting to know what is happening behind the products and how the engineering teams develop and operate them. I like to hear stories from the perspective of the insiders, as I can have more understanding when I'm the user. On the other hand, it is a more of a talk on the industry experience. So sad I'm a senior already; I wish I had participated more tech talks when I was a freshman.
+
+### What's your pick-of-the-week or tip-of-the-week?
+
+Let me recommend a book here: system design primer. This book is about how to design large scale systems, and the concepts there are very clear and easy to follow. More importantly, the book has only 80 pages; you will have a general understanding on related concepts, and there are always more related links where you can learn more if you are interested in some details. I find this book very inspiring as it covers so many questions deep in my mind. Although we are not likely to design a large system at the early stage of our career, I'm pretty sure you will have a lot of fun reading it.  
+
+----------------------------------------------------------------------
 
 ## WEEK-EIGHT
 
