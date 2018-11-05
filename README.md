@@ -4,7 +4,7 @@
 
 ### What did you do this past week?
 
-A lot of homework dues. I finished my history essay, math homework, database problem set and algorithm assignment. Besides, the project due took some time of the eariler week and the coming algo exam is bulking up my spare time in the weekend. Next week will be much easier for me.  
+A lot of homework dues. I finished my history essay, math homework, database problem set and algorithm assignment. Besides, the project due took some time of the eariler week and the coming algo exam is taking up my spare time in the weekend. Next week will be much easier for me.  
 
 ### What's in your way?
 
