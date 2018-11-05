@@ -1,5 +1,29 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
+## WEEK-TEN
+
+### What did you do this past week?
+
+A lot of homework dues. I finished my history essay, math homework, database problem set and algorithm assignment. Besides, the project due took some time of the eariler week and the coming algo exam is bulking up my spare time in the weekend. Next week will be much easier for me.  
+
+### What's in your way?
+
+It's the algo exam. I spent too much time interviewing last month and I feel like I need to catch up with so much materials. Later next week I will be expecting a few final round interview results coming out. I'm crossing my fingers... 
+
+### What will you do next week?
+
+Finish the algo exam, pick up the project phase 4 and relax a little bit.
+
+### What was your experience of Project #3? (this question will vary, week to week)
+
+This project phase 3 is where a lot of work comes in. Like back in phase 2 we can totally mock out a static page but this time we need to setup everything right. A lot of collabarations are going on in this phase, as we keep making some subtle changes like modifying database fields and some designing work to make each other's work easier to accomplish. Testing is another part that we were kind of in trouble with; every change we made broke the tests we wrote, so we have to fix all the tests right before the project due and that was a little mess. We were also hitting some production issues that we didn't realize as we were all doing local development independently. Anyway this is a great project phase and I think our team did a great job. We have a solid foundation that we are confident that we can easily build up the phase 4 upon it smoothly.  
+
+### What's your pick-of-the-week or tip-of-the-week?
+
+I am a dropbox user for a long time, yet I didn't realize that I should use it as a workspace. This was the thing: I have my R installed in one of my laptops for my stats class, yet I'm getting so used to the Word to create a homework document. Everytime when I need to take a screenshot I would save it as a file and use an online messenger to pass to my other machine; then I will download it and embed into my document. This is too painful! Then I suddenly realized that dropbox could be good use case in this scenario. No more uploading and downloading; whenever I made a screenshot, I can access that pic from the other machine as long as I set the default saving directory under dropbox. Why didn't I think of this much earlier?  
+
+----------------------------------------------------------------------
+
 ## WEEK-NINE
 
 ### What did you do this past week?
