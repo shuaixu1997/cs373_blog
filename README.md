@@ -1,5 +1,30 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
+## WEEK-ELEVEN
+
+### What did you do this past week?
+
+I finished the algo exam earlier this week and had a quite relaxing break. Project was going well as we have met most of the requirements other than the search, so this phase three becomes much easier. I will give credit to my awesome teammates: they are doing such a good job to the degree that I don't need to worry about anything at all.
+
+### What's in your way?
+
+I have two interviews in the next week and I will be going out of town again.  
+
+### What will you do next week?
+
+I will work hard and try to wrap up all my tasks before Wednesday. I have one meeting with our group to complete the rest of phase three, and several other assignments due on Friday. Then I will be heading out on Thursday and hopefully I could do well in the back to back interviews.
+
+### What was your experience in learning SQL? (this question will vary, week to week)
+
+Actually I'm surprised. SQL is so flexible that we may have many ways to do the very same query. I really like the hackerrank sql exercise we did in class; I don't have too much experience writing sql in real life, and this is a great opportunity for me to at least get exposed to sql commands hand by hand. I feel like SQL is somehow closer to English so it makes so much sense just by reading the syntax.  
+
+### What's your pick-of-the-week or tip-of-the-week?
+
+GitKraken. I know there are many git client with graphic interface, yet I particularly like GitKraken for solving merging conflicts. Before knowing GitKraken, for merge conflicts I would usually check into files, fix the issue and remove the header manually etc. This is a terrible experience and it could be so annoying when there are multiple changes written by different people. GitKraken provides a very clean comparison between two files and makes it intuitive to edit and save changes. Other than this, GitKraken also allows you to modify the workflow by draging the commits etc, so this can be useful when I mistakenly did something and not wanted to use reverse the commits all the time. Overall I think installing a git GUI client is a good move; we may not need it in daily simple workflows, yet it could be very handy at times. 
+
+----------------------------------------------------------------------
+
+
 ## WEEK-TEN
 
 ### What did you do this past week?
