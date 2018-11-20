@@ -4,6 +4,30 @@
 
 ### What did you do this past week?
 
+We finished the project phase 4 on Monday, I did an interview later and pretty much the rest of the week are just relaxing. I also went to a live house; it's the new album tour from The Internet. No more exams, no more interviews - I mean life is just great. 
+
+### What's in your way?
+
+Thanksgiving break! I will be out of town and have some fun. It's really nice to suddenly realize that I have finished almost everything right before the break. Checking the calendar, I know that I will be busy again after I come back; so before that happens, let me just forget about all the stress I had in the past two months.
+
+### What will you do next week?
+
+same as above.
+
+### What was your experience of Project #4? (this question will vary, week to week)
+
+Project 4 is not really too much work for our group. The filter and searching APIs were mostly ready upon the phase 3, so most of the work are actually on the front end. An interesting challenge was that special characters like '-' are treated differently in our searching feature, so we need to somehow catch such scenario and be careful. Another thing is the trouble caused by pagination: in order to search everything, we need to call multiple pages to collect the results, and that is so inconvenient. Overall our work were really smooth, and I just can't wait for the final presentations to see how other groups are doing.
+
+### What's your pick-of-the-week or tip-of-the-week?
+
+As the fall recruiting season approaches the end, I had so many thoughts on how I could possibly do better. My genuine advice is that, don't put too much pressure on yourself. Every time I got rejected by a company, I felt so bad and I was really worried that I'm just not that good. However, interviews become easier and easier as I have more experience with it, and after my first offer I began to realize that I should enjoy this process much more. There are so many good companies hiring people, and you always have another place to apply for. 
+
+----------------------------------------------------------------------
+
+## WEEK-ELEVEN
+
+### What did you do this past week?
+
 I finished the algo exam earlier this week and had a quite relaxing break. Project was going well as we have met most of the requirements other than the search, so this phase three becomes much easier. I will give credit to my awesome teammates: they are doing such a good job to the degree that I don't need to worry about anything at all.
 
 ### What's in your way?
