@@ -1,5 +1,36 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
+
+## WEEK-THIRTEEN
+
+### What did you do this past week?
+
+I went out of town since last Sunday and had an onsite interview on Tuesday. I took an overnight flight getting back to Austin, which completely messed up my sleeping schedule in this week. I did catch some sleep during the flight, yet I was so hungry all night long and all they have is cookie... anyway I still finished a full day schedule on Wednesday after arriving early in the morning, and I definitely overslept throughout the rest of the week.
+
+### What's in your way?
+
+Our team is so lucky to have Friday for presentation, so it gets us a lot of time for preparation. I have two major assignments due in this upcoming week, so that would take up some time.
+
+### What will you do next week?
+
+Next week is technically the last week of lectures. I will try to attend all of them, as I'm expecting some final review sessions going on and I can catch up a little bit. The week after next week is horrible for me since I have four exams in a row and I'm still not sure what time is one of the made up session (I have one conflict on schedule).
+
+### If you went, what did you think of the talk by Google? (this question will vary, week to week)
+
+Unfortunately I didn't go.
+
+### What was your experience of the refactoring topics? (this question will vary, week to week)
+
+Refactoring lectures are interesting. I definitely had some experience refactoring codes, either in schoolwork or during internships. However, I never treated refactoring in a systematic way; I always modifying codes as I wish and never thought about consequences (assuming we can always roll back...). Now I agree that it's a bad habit and I might have a big trouble if I did this to a complicated industrial production code. I like the practice on lectures: the implementations are easy but the most beneficial part is to grasp the idea and understand why we are doing that. 
+
+### What's your pick-of-the-week or tip-of-the-week? 
+
+During Thanksgiving I discovered an interesting tool: i3wm. It's a tilling windows manager targeted for Linux. I have to admit that it's not handy at all. But Guess what? You can literally re-map all shortcuts on your keyboard and such high flexibility would give you a very satisfying experience controlling the system. For example, all terminals can reside in one workspace and it automatically takes up the entire screen and split up if you open another one. It is a counter-intuitive environment and it takes so much time for pre-configuration, but I can see the use case especially for operation-heavy type of work.
+
+----------------------------------------------------------------------
+
+
+
 ## WEEK-TWELVE
 
 ### What did you do this past week?
