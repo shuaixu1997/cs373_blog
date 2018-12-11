@@ -1,5 +1,45 @@
 <img src="headshot.jpg" height="300px" width="300px" />
 
+## Final-Entry
+
+### What did you like the least about the class?
+
+The irrelevance between lectures and projects. It feels like taking two separate classes but strangely tied together, and I definitely need more practice on the class materials. We covered so many things while working on a time-consuming group project, which made it really tough to keep up with the topics in lectures. 
+
+### What did you like the most about the class?
+
+The participation and engagement. I really like the in class HackerRank exercises and interactive Q&As, which is way better than most dry lectures. Also my favorite: very clear objectives and crystal clear materials. Even though I don't like the separation between lectures and projects, professor Downing made it clear in the first day of the class so it's completely your call whether to take it or not. The schedule page is so helpful and convenient as we have all the exercise links and notes together. All project specifics and grading criteria are posted, which made it fairly easy to estimate the workload. Anyway I have so much love in this class.
+
+### What's the most significant thing you learned?
+
+I will say it's here and there, as we covered different topics and the project is another thing. However, it is my first time learning how to write raw sqls, and I feel shamed not picking this up in the data management class. That one was somehow theoretical I would say, but the sql in this class is actually very practical and I enjoy the time investment in this topic. 
+
+### How many hours a week did you spend coding/debugging/testing for this class?
+
+Mostly for projects, maybe five or six hours per week. A little more before the due days. I think coding/debugging/testing are fine, while the designing/discussion/collaboration take much more time in general.
+
+### How many hours a week did you spend reading/studying for this class?
+
+I don't spend much time reviewing the lecture materials other than the time before two exams. Also I don't have a routine reading the articles.. so it's like one hour per week really for this portion, and they are heavily accumulated before exams.
+
+### How many lines of code do you think you wrote?
+
+For real code? Few hundreds I think. If "code" includes some configuration files and library imports, that might add up to more than one thousand lines.
+
+### What required tool did you not know and now find very useful?
+
+AWS. It's not like I did not know; it's just that I don't have too much experience on it and after this class I find it very powerful and useful. 
+
+### What's the most useful Web dev tool that your group used that was not required?
+
+Nginx maybe? I feel like most tools we used are required and it's kind of weird to come up with one. Personally I took charge of the server side so I think Nginx saves me a lot of trouble on the deployment. We use Nginx for both our frontend static files and backend traffic handling. 
+
+### If you could change one thing about the course, what would it be?
+
+Give out 3-5 take-home HackerRank assignments and lower the grading percentage of midterm/final exams. I feel like one's grade is screwed if he/she didn't do well in one exam, so some take-home assignments are good for both our practice and overall grades.   
+
+------------------------------------------------------------------------------
+
 
 ## WEEK-THIRTEEN
 
